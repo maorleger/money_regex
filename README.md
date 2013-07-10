@@ -13,7 +13,7 @@ Etc.
 Given an input file with text, the program creates an output file which contains the same text except all money format expressions will be surrounded by []
 
 Ex:
-'Last year we donated 25 million dollars and twenty cents' --> 'Last year we donated [25 million dollars and twenty cents]'
+'Last year we donated 25 million dollars' --> 'Last year we donated [25 million dollars]'
 
 Requirements:
 Python 2.6 or higher
