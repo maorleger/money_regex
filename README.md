@@ -2,11 +2,12 @@ README.
 
 Introduction:
 This python script wraps a regex that captures all money formats. Example formats:
-1 million dollars and fifty two cents
 $1
 $1,000,000
 $1000000
-One million dollars and 25 cents
+One million dollars
+$5.25
+5 million 200 thousand 27 hundred dollars
 Etc.
 
 Given an input file with text, the program creates an output file which contains the same text except all money format expressions will be surrounded by []
